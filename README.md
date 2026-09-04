@@ -1,6 +1,6 @@
 # Hi, I'm Sridevibala03 👋
 
-Welcome to my GitHub profile! I'm a assionate Data Analyst with practical experience in building dashboards, KPIs in Business Intelligence tools like Power BI, Excel. I enjoy automating manual and repeated tasks with Python, VBA and Power Automate. 
+Welcome to my GitHub profile! I'm a passionate Data Analyst with practical experience in building dashboards, KPIs in Business Intelligence tools like Power BI, Excel. I enjoy automating manual and repeated tasks with Python, VBA and Power Automate. 
 
 ---
 
